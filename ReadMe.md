@@ -1,1 +1,2 @@
-this is a file about Mnist dataset\nTe model predict 98% 
+this is a file about Mnist dataset
+The model predict 98% 
